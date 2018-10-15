@@ -64,6 +64,7 @@ public class Login {
 		//将剪切的内容重新输入输入框
 		kw.sendKeys(Keys.CONTROL,"v");
 		kw.sendKeys(Keys.ENTER);
+		System.out.println("搜索");
 		//driver.quit();
 		/*设置隐式等待，最大范围为10秒
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);*/
