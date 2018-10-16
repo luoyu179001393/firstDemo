@@ -2,16 +2,16 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/bsh-2.0b4.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/commons-collections4-4.1.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/jcommander.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/poi-3.17.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/poi-ooxml-3.17.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/poi-ooxml-schemas-3.17.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/selenium-java-3.11.0.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/selenium-server-standalone-3.8.1.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/snakeyaml.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/testng.jar"/>
-	<classpathentry kind="lib" path="F:/Java/firstDemo/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/jcommander.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/selenium-java-3.11.0.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/snakeyaml.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/testng.jar"/>
+	<classpathentry kind="lib" path="F:/Java/firstDemo/libs/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
